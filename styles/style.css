@@ -1,0 +1,31 @@
+/* =============== button styles ===================*/
+.btn-effect a:hover , .plan-btn:hover{
+    background-color: brown;
+    color: #ffff;
+    transition: all linear 0.7s;
+}
+
+.btn-fill-premium .btn-fill{
+    padding: 10px 90px;
+    background-color: #F53838;
+}
+.btn-fill-premium .btn-fill:hover{
+    transform: scale(1.1);
+    transition: all linear 0.7s;
+}
+.customer-border:hover{
+    border: 2px solid red;
+}
+.dotted-styles .dot{
+    width: 50px;
+    background-color: brown;
+    height: 15px;
+    
+}
+.single-dot{
+    width: 15px;
+    height: 15px;
+    background-color: #DDE0E4;
+    border-radius: 50%;
+    
+}
